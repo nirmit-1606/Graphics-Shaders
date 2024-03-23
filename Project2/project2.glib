@@ -13,6 +13,5 @@ Program  OvalNoise							\
     	uAlpha <0. 1. 1.> 
 
 Color 1. .9 0
-#Sphere 1 50 50
 Translate 0 -1.5 0
 Obj cat.obj

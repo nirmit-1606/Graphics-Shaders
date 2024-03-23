@@ -18,5 +18,4 @@ Program  CylQuant				\
 	uGravity <-0.5 0 0.5>  \
 	uVelScale <1. 1. 10.>
 
-#Soccerball
 Obj bunny.obj
