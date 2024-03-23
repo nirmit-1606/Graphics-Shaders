@@ -1,0 +1,27 @@
+##OpenGL GLIB
+
+Background 1. .9 .85
+Perspective 70
+LookAt 2.5 4 5  0 0 2  0 1 0
+#LookAt 5.5 0 0.5  0 0 0.5  0 1 0
+
+
+Vertex      mountains.vert
+Fragment    mountains.frag
+Program     Mountains               \
+            uDetails <0. 0. 1.>     \
+            uSnow <0. 0. 1.>       
+
+PushMatrix
+Translate 0. 0. -0.8
+QuadXZ 0 2. 200 200
+PopMatrix
+
+Vertex      water.vert
+Fragment    water.frag
+Program     Waves
+
+PushMatrix
+Translate 0. 0. 2.6
+QuadXZ 0. 2. 200 200
+PopMatrix
