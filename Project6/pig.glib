@@ -1,0 +1,14 @@
+##OpenGL GLIB
+Perspective 70
+LookAt 0 0 3  0 0 0  0 1 0
+
+//Texture2D 5 cool.bmp
+
+Vertex   pig.vert
+Fragment pig.frag
+Program  Pig									\
+	uNoiseAmp 		<0. .25 1.>  				\
+	uNoiseFreq 		<0. 1. 10.>     			
+
+Obj bunny.obj
+//QuadXY .2 5.

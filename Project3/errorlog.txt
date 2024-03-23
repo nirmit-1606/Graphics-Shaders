@@ -1,0 +1,6 @@
+
+ERROR: 0:53: 'Normal' : redefinition 
+ERROR: 0:54: 'Light' : redefinition 
+ERROR: 0:55: 'Eye' : redefinition 
+
+

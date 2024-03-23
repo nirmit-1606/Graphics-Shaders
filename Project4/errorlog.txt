@@ -1,0 +1,6 @@
+
+ERROR: 0:17: 'constructor' : not enough data provided for construction 
+ERROR: 0:16: 'const' : non-matching types (using implicit conversion) for const initializer 
+ERROR: 0:68: 'assign' :  cannot convert from '3-component vector of mediump float' to 'FragColor 4-component vector of mediump float'
+
+

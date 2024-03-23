@@ -1,0 +1,4 @@
+
+ERROR: 0:27: 't' : syntax error syntax error
+
+

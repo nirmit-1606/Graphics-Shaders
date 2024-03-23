@@ -1,0 +1,5 @@
+
+WARNING: 0:2: '' :  #version directive missing
+ERROR: 1:1: '' : syntax error: #version must come before any other token
+
+

@@ -1,0 +1,22 @@
+##OpenGL GLIB
+Perspective 70
+LookAt  0 0 3     0 0 0    0 1 0
+#Pointsize 2.
+
+Vertex   cylquant.vert
+Geometry cylquant.geom
+Fragment cylquant.frag
+Program  CylQuant				\
+	uLevel <0 3 3>				\
+	uQuantize <1. 50. 50.>		\
+	uColor { .7 .4 .8 }			\
+	uLightX <-20. 0. 20.>       \
+    uLightY <-20. 0. 20.>       \
+    uLightZ <-20. 10. 20.>		\
+	uExplode <false>			\
+	uTime <0. 0. 40.>			\
+	uGravity <-0.5 0 0.5>  \
+	uVelScale <1. 1. 10.>
+
+#Soccerball
+Obj bunny.obj

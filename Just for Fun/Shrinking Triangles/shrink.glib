@@ -1,0 +1,12 @@
+##OpenGL GLIB
+
+Perspective 70
+LookAt 0 0 6  0 0 0  0 1 0
+
+Vertex shrink.vert
+Geometry shrink.geom
+Fragment shrink.frag
+Program ShrinkTriangles uShrink <-2. 1. 1.>
+
+Color 1. .5 0.
+Obj bunny.obj
