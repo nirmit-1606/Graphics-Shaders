@@ -1,5 +1,0 @@
-
-ERROR: 0:91: 'assign' : l-value required "uKs" (cannot modify a uniform)
-ERROR: 0:92: 'assign' : l-value required "uShininess" (cannot modify a uniform)
-
-

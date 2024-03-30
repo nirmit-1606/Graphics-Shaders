@@ -1,4 +1,0 @@
-
-ERROR: 0:6: 'point_strip' : syntax error syntax error
-
-

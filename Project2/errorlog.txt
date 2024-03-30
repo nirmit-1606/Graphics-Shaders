@@ -1,5 +1,0 @@
-
-ERROR: 0:14: '=' : assigning non-constant to 'const 4-component vector of highp float'
-ERROR: 0:15: '=' : assigning non-constant to 'const 4-component vector of highp float'
-
-
