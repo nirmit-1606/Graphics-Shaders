@@ -2,7 +2,7 @@
 Ortho -5. 5.   -5. 5.
 LookAt 0 0 2  0 0 0  0 1 0
 
-Texture2D 5 image.bmp
+Texture2D 5 pattern.bmp
 
 Vertex   mag.vert
 Fragment mag.frag
